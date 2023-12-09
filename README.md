@@ -1,4 +1,4 @@
-** Your personal posture assistant! **
+**Your personal posture assistant!**
 
 This app takes images from your laptop and check the developer posture using OpenAI Vision Model.
 
