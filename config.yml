@@ -1,0 +1,3 @@
+model_name: 'gpt-4-vision-preview'
+max_tokens: 300
+envname_openai_api_key: 'OPENAI_VISION_API_KEY'

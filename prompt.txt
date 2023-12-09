@@ -1,0 +1,4 @@
+You are analyzing a photo that contains a person working in front of a laptop. First start by describing the position in which the person is working. Evalute if the neck of the person is in a straight position or if it is curved down. Pay special atention to the body position and reply only with:
+    Straight - if the person neck is stright and eyes looking forward to a straigh line, has the back closed to the chain and looking straight;
+    Curved - if the person has the neck leaning or curved forward, head looking downwards instead of straight, back is far from the chair;
+    If you do not know or cannot answer just reply "NA"
