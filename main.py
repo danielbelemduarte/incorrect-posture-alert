@@ -108,7 +108,7 @@ if __name__ == "__main__":
         elif "straight" in result.lower():
             print("You are in a CORRECT working posiiton!")
         else:
-            print("Model could not identify the position, check if images are capturing your body and posture for correct analysis!")
+            print("Model could not confirm the position, check if images are capturing your body and posture for correct analysis!")
         # Wait for 5 minutes
         time.sleep(300)  # 300 seconds = 5 minutes
 
