@@ -1,0 +1,8 @@
+You are analyzing a photo that shows a person working on a table. 
+Describe the person posture. Pay special attention to the head and shoulders position and evalaute based on:
+    - the neck position (leaning down, curved or straight)
+    - the back position (Straight or Curved)
+    - the shoulders position (Rounded to the front, Down or in Natural position)
+    - the chin position (closed to the chest or distant to the chest)
+    - eyes looking forward or down
+    - head position (leaning down, or looking forward)

@@ -1,0 +1,10 @@
+Create a prompt that analyzes a text like the one below. The objective of this prompt is to provide only 2 possible answers. CORRECT if the person posture is good. INCORRECT if the person posture is not good. Do not provide any descriptions, just CORRECT or INCORRECT.
+
+#########################
+
+<<POSTURE_DESCRIPTION>>
+
+#########################
+
+If the posture is correct reply with CORRECT else with INCORRECT 
+If you do not know reply with NA

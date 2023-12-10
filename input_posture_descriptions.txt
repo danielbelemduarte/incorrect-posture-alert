@@ -1,0 +1,28 @@
+
+###############################################################
+
+description of a CORRECT posture image:
+
+ The person in the photo is seated with their body oriented slightly to the left from the perspective of the camera. Looking closely at their posture:
+
+- The neck position is relatively straight, without a significant lean down or curve, which suggests a neutral posture that is not placing undue stress on the neck.
+- The back position is not fully visible due to the angle, but the upper back seems to be straight rather than curved.
+- The shoulders appear to be in a natural position, neither rounded forward significantly nor pulled too far down; they look relaxed.
+- The chin is positioned away from the chest, contributing to the aligned neck position.
+- The eyes are directed forward, not down, indicating that the person's gaze is level with their environment rather than focused on something on the table or in their lap.
+- The head position is slightly turned but not leaning down; it is oriented forward with a gentle, natural turn to the side.
+
+This posture indicates that the person is not currently engrossed in an activity on the table in front of them but instead seems to be potentially in thought or conversation. Their posture is fairly good, suggesting a mindful approach to maintaining a healthy position while seated.
+
+###############################################################
+
+description of a INCORRECT posture image:
+
+Based on the provided image:
+
+- The neck position is slightly leaning down as the person is looking towards the table.
+- The back position is not fully visible due to the angle of the image, but it seems somewhat curved or leaning forward.
+- The shoulders position appears to be in a natural or slightly rounded forward position due to leaning over the table.
+- The chin position is closer to the chest as the head is tilted downward.
+- The eyes are looking down, focusing on something on the table.
+- The head position is leaning down towards the table as the person appears to be concentrating on their task.

@@ -1,5 +1,0 @@
-You are analyzing a photo that shows a person working in front of a computer. 
-Start by evaluating the person posture. Pay special atention to the head and sholders position and evalaute based on:
-    - If the person neck is stright, eyes looking forward on a straigh line, chin is tucked, sholders down >> reply: Straight
-    - If the person has the neck leaning or curved down, head looking downwards, back is far from the chair, sholders are rounded down >> reply: Curved
-    - If you do not know or cannot answer >> reply: NA
