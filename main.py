@@ -106,6 +106,7 @@ if __name__ == "__main__":
     VISION_MODEL_NAME = config_file['vision_model_name']
     COMPLETION_MODEL_NAME = config_file['completion_model_name']
     MAX_TOKENS = config_file['max_tokens']
+    TIMER_CHECKER_SECONDS = config_file['timer_check_seconds']
 
     # OPENAI API KEY MUST BE ADDED TO THE SYSTEM ENVIRONMENT VARIABLES WITH THE NAME ON THE CONFIG FILE 
     OPENAI_API_KEY_ENVNAME = config_file['envname_openai_api_key']
@@ -136,4 +137,4 @@ if __name__ == "__main__":
         else:
             print("Model could not confirm the position, check if images are capturing your body and posture for correct analysis!")
         # Wait for 5 minutes
-        time.sleep(300)  # 300 seconds = 5 minutes
+        time.sleep(TIMER_CHECKER_SECONDS)  # 300 seconds = 5 minutes
