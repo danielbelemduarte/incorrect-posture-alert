@@ -137,4 +137,4 @@ if __name__ == "__main__":
         else:
             print("Model could not confirm the position, check if images are capturing your body and posture for correct analysis!")
         # Wait for 5 minutes
-        time.sleep(TIMER_CHECKER_SECONDS)  # 300 seconds = 5 minutes
+        time.sleep(TIMER_CHECKER_SECONDS)
