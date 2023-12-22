@@ -1,0 +1,21 @@
+version: '3.9'
+
+services:
+  postgres:
+    ports:
+      - 5432:5432
+    build:
+      context: ./Docker
+      dockerfile: db.Dockerfile  
+    volumes:
+      - ~/apps/postgres:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=S3cret
+      - POSTGRES_USER=admin
+      - POSTGRES_DB=posture_db
+    networks:
+      - alerts-network
+
+networks: 
+  alerts-network:
+    driver: bridge
