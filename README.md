@@ -17,11 +17,14 @@ The high-level architecture is as follows:
 |:---:|:---:|:---:|:---:|
 |img01.png|Person head is leaning down|Posture is ok|Correct|
 
-# Dependencies
+# Dependencies / Installation
 Install all the dependencies needed from the requirements.txt file: 
 ```bash
 pip install requirements.txt
 ```
+
+You will need an OpenAI API Key to use the model. Get it from https://platform.openai.com/api-keys.
+You must setup the OpenAI API Key as part of the Windows environment variables with the key: OPENAI_API_KEY and value being your generated API Key
 
 # Run
 ```bash
